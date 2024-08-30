@@ -31,12 +31,12 @@ I have a proven track record of producing high-quality research that is the auth
 <br>
 <br>
 <br>
-<br>
-<br>
+<!-- <br>
+<br> -->
 
 
 <p align="center">
-    <img src="/images/science_web.jpg" width="1280" height="960">
+    <img src="/images/science_web.jpg" width="980" height="720">
 </p>
 
 
