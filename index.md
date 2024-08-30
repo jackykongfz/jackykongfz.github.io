@@ -31,7 +31,7 @@ I have a proven track record of producing high-quality research that is the auth
 
 
 ## Drones I've made
-<img src="/images/uavs.jpg" class="floatpic" width="640" height="480">
+<img src="/images/uavs.png" class="floatpic" width="640" height="480">
 
 ## Academic Background
 
