@@ -27,8 +27,9 @@ I have a proven track record of producing high-quality research that is the auth
 - **Sep 2023**: Five papers are accepted by **2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**.
 - **Jun 2023**: Our paper “Agile motions of a single-actuated, self-rotating UAV”, is selected as the Best Mechanical Design Award at the workshop of "Agile Movements: Animal Behavior, Biomechanics, and Robot Devices" held in **2023 International Conference on Robotics and Automation (ICRA)**.
 - **Mar 2023**: Our paper “A self-rotating, single-actuated UAV with extended sensor field of view for autonomous navigation” is published on and visually featured by **Science Robotics**.[<font color=red>[Link]</font>](https://mars.hku.hk/papers/scirobotics.ade4538_.pdf)[<font color=red>[Youtube]</font>](https://youtu.be/lrEJnJrRJsQ?si=AjWy0GhPUC-1RrOC) Our paper is presented on the homepage of the **Science** website.
+
 <p align="center">
-    <img src="/images/science_web.jpg" class="floatpic" width="1080" height="720">
+    <img src="/images/science_web.jpg" class="floatpic" width="1280" height="960">
 </p>
 
 
@@ -36,7 +37,7 @@ I have a proven track record of producing high-quality research that is the auth
 ## Drones I've made
 <!-- <img src="/images/uavs.png" class="floatpic" width="640" height="480"> -->
 <p align="center">
-  <img src="/images/uavs.png" width="1580" height="1280">
+  <img src="/images/uavs.png" width="2080" height="1580">
 </p>
 
 ## Academic Background
