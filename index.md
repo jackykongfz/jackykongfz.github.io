@@ -29,8 +29,9 @@ I have a proven track record of producing high-quality research that is the auth
 - **Mar 2023**: Our paper “A self-rotating, single-actuated UAV with extended sensor field of view for autonomous navigation” is published on and visually featured by **Science Robotics**.[<font color=red>[Link]</font>](https://mars.hku.hk/papers/scirobotics.ade4538_.pdf)[<font color=red>[Youtube]</font>](https://youtu.be/lrEJnJrRJsQ?si=AjWy0GhPUC-1RrOC) Our paper is presented on the homepage of the **Science** website.
 <img src="/images/science_web.jpg" class="floatpic" width="640" height="480">
 
+
 ## Drones I've made
-<img src="/images/uavs.jpg" class="floatpic" width="1080" height="720">
+<img src="/images/uavs.jpg" class="floatpic" width="640" height="480">
 
 ## Academic Background
 
