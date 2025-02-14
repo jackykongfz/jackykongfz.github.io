@@ -10,7 +10,7 @@ Here is **Fanze Kong (Jacky, 孔繁泽)**.
 
 I am a Ph.D. candidate at The University of Hong Kong (HKU)🏫, [<font color=blue>[MARS LAB]</font>](https://mars.hku.hk/), supervised by [<font color=blue>[Dr. Fu Zhang]</font>](https://www.mech.hku.hk/academic-staff/Zhang-F) and co-supervised by [<font color=blue>[Prof. James Lam]</font>](https://meweb.hku.hk/jlam/). My research interests lie in the areas of Unmanned Aerial Vehicle(UAV) design, motion planning, LiDAR simulation and multi-UAV autonomous navigation.
 
-I have a proven track record of producing high-quality research that is the author of 14 published papers (1 **Science Robotics**, 1 **TRO**, 2 **IJRR**, 1 **Nature Communications**, 3 **RA-L**, 1 **ICRA**, 4 **IROS** and 1 **AIS**).
+I have a proven track record of producing high-quality research that is the author of 16 published papers (2 **Science Robotics**, 2 **TRO**, 2 **IJRR**, 1 **Nature Communications**, 3 **RA-L**, 1 **ICRA**, 4 **IROS** and 1 **AIS**).
 
 <br>
 <br>
@@ -19,6 +19,10 @@ I have a proven track record of producing high-quality research that is the auth
 
 ## News and Updates
 
+- **Jan 2025**: Our paper "Safety-assured High-speed Navigation for MAVs" is published on and visually featured by **Science Robotics**.[<font color=red>[Article]</font>](https://www.science.org/doi/10.1126/scirobotics.ado6187)[<font color=red>[Youtube]</font>](https://youtu.be/GPHuzG0ANmI?si=miXmInxpT1aQ70lu)
+[<font color=red>[Bilibili]</font>](https://www.bilibili.com/video/BV1BSFgeJEJn) Our paper is presented on the homepage of the **Science** website.
+- **Jan 2025**: Our paper "Swarm-LIO2: Decentralized, Efficient LiDAR-inertial Odometry for UAV Swarms" is published in **IEEE Transactions on Robotics (TRO)**. [<font color=red>[Preprint]</font>](https://arxiv.org/abs/2409.17798.pdf)[<font color=red>[Youtube]</font>](https://www.youtube.com/watch?v=Q7cJ9iRhlrY)
+[<font color=red>[Bilibili]</font>](https://www.bilibili.com/video/BV1vTsMeqEQm)
 - **Oct 2023**: Our conference paper "Swashplateless-elevon Actuation for a Dual-rotor Tail-sitter VTOL UAV" won **IROS Best Paper Award on Robot Mechanisms and Design** and **IROS 2023 Best Overall and Best Student Paper Finalist**.[<font color=red>[Preprint]</font>](https://arxiv.org/abs/2309.13559.pdf)[<font color=red>[Youtube]</font>](https://youtu.be/Sx9Rk4Zf7sQ?si=-JGP7CZFW_FYLHKX)
 - **Sep 2023**: Our paper “Occupancy Grid Mapping without Ray-Casting for High-resolution Sensors” is accepted for publication in **IEEE Transactions on Robotics (TRO)**.
 [<font color=red>[Preprint]</font>](https://arxiv.org/pdf/2307.08493.pdf)[<font color=red>[Youtube]</font>](https://youtu.be/m5QQPbkYYnA?si=SSc4g1yhleJJoijZ)<!-- [<font color=red>[Bilibili]</font>](https://youtu.be/m5QQPbkYYnA?si=SSc4g1yhleJJoijZ) -->
@@ -46,7 +50,7 @@ I have a proven track record of producing high-quality research that is the auth
 
 - **Nov 2020 - Now**: The University of Hong Kong (Ph.D.)
 - **Sep 2016 - Sep 2020**: Harbin Institute of Technology (BEng)
-- **Sep 2013 - Sep 2016**: Shenzhen Middle School
+<!-- - **Sep 2013 - Sep 2016**: Shenzhen Middle School -->
 
 <!-- ## Research Interests
 

@@ -8,6 +8,16 @@ title: Publications
 
 ## Journal Paper
 
+### Safety-assured High-speed Navigation for MAVs
+Yunfan REN, Fangcheng Zhu, Guozheng Lu, Yixi Cai, Longji Yin, **Fanze Kong**, Jiarong Lin, Nan Chen, Fu Zhang
+<br>Published by ***Science Robotics***  [<font color=blue>[Article]</font>](https://www.science.org/doi/10.1126/scirobotics.ado6187)[<font color=blue>[Youtube]</font>](https://youtu.be/GPHuzG0ANmI?si=miXmInxpT1aQ70lu)
+[<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1BSFgeJEJn)
+
+### Swarm-LIO2: Decentralized, Efficient LiDAR-inertial Odometry for UAV Swarms
+Fangcheng Zhu, Yunfan REN, Longji Yin, **Fanze Kong**, Qingbo Liu, Ruize Xue, Wenyi Liu, Yixi Cai, Guozheng Lu, Haotian Li, Fu Zhang
+<br>Published by ***IEEE Transactions on Robotics (TRO)*** [<font color=blue>[Preprint]</font>](https://arxiv.org/abs/2409.17798.pdf)[<font color=blue>[Youtube]</font>](https://www.youtube.com/watch?v=Q7cJ9iRhlrY)[<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1vTsMeqEQm)
+
+
 ### MARS-LVIG dataset: A multi-sensor aerial robots SLAM dataset for LiDAR-visual-inertial-GNSS fusion
 Haotian Li, Yuying Zou, Nan Chen, Jiarong Lin, Wei Xu, Chunran Zheng, Xiyuan Liu, Dongjiao He, **Fanze Kong** , Yixi Cai, Zheng Liu, Shunbo Zhou, Kaiwen Xue and Fu Zhang
 <br>Published by ***International Journal of Robotics Research (IJRR)*** [<font color=blue>[LINK]</font>](https://mars.hku.hk/dataset.html)
